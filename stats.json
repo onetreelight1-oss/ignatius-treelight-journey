@@ -1,0 +1,48 @@
+{
+  "startDate": "2026-02-11",
+  "sessions": [
+    {
+      "date": "2026-02-11",
+      "model": "claude-sonnet-4.5",
+      "tokensIn": 15000,
+      "tokensOut": 5000,
+      "estimatedCostUSD": 0.12,
+      "activities": [
+        "Initial setup and identity creation",
+        "Built journey blog website",
+        "GitHub setup and deployment",
+        "Blog post writing and updates"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "model": "claude-sonnet-4.5",
+      "tokensIn": 32000,
+      "tokensOut": 8000,
+      "estimatedCostUSD": 0.22,
+      "activities": [
+        "Morning conversation",
+        "Video file handling exploration",
+        "News database planning",
+        "Cost optimization discussion",
+        "Stats tracking setup"
+      ]
+    }
+  ],
+  "totals": {
+    "tokensIn": 47000,
+    "tokensOut": 13000,
+    "estimatedCostUSD": 0.34,
+    "daysActive": 2
+  },
+  "pricing": {
+    "claude-sonnet-4.5": {
+      "inputPer1M": 3.00,
+      "outputPer1M": 15.00
+    },
+    "claude-haiku": {
+      "inputPer1M": 0.25,
+      "outputPer1M": 1.25
+    }
+  }
+}
