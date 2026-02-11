@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onetreelight1-oss.github.io/ignatius-treelight-journey/sitemap.xml
